@@ -1,0 +1,15 @@
+D:\multimedi\Cscherp\6.6. rnatransscriptie\bin\Debug\net6.0\6.6. rnatransscriptie.exe
+D:\multimedi\Cscherp\6.6. rnatransscriptie\bin\Debug\net6.0\6.6. rnatransscriptie.deps.json
+D:\multimedi\Cscherp\6.6. rnatransscriptie\bin\Debug\net6.0\6.6. rnatransscriptie.runtimeconfig.json
+D:\multimedi\Cscherp\6.6. rnatransscriptie\bin\Debug\net6.0\6.6. rnatransscriptie.dll
+D:\multimedi\Cscherp\6.6. rnatransscriptie\bin\Debug\net6.0\6.6. rnatransscriptie.pdb
+D:\multimedi\Cscherp\6.6. rnatransscriptie\obj\Debug\net6.0\6.6. rnatransscriptie.csproj.AssemblyReference.cache
+D:\multimedi\Cscherp\6.6. rnatransscriptie\obj\Debug\net6.0\6.6. rnatransscriptie.GeneratedMSBuildEditorConfig.editorconfig
+D:\multimedi\Cscherp\6.6. rnatransscriptie\obj\Debug\net6.0\6.6. rnatransscriptie.AssemblyInfoInputs.cache
+D:\multimedi\Cscherp\6.6. rnatransscriptie\obj\Debug\net6.0\6.6. rnatransscriptie.AssemblyInfo.cs
+D:\multimedi\Cscherp\6.6. rnatransscriptie\obj\Debug\net6.0\6.6. rnatransscriptie.csproj.CoreCompileInputs.cache
+D:\multimedi\Cscherp\6.6. rnatransscriptie\obj\Debug\net6.0\6.6. rnatransscriptie.dll
+D:\multimedi\Cscherp\6.6. rnatransscriptie\obj\Debug\net6.0\refint\6.6. rnatransscriptie.dll
+D:\multimedi\Cscherp\6.6. rnatransscriptie\obj\Debug\net6.0\6.6. rnatransscriptie.pdb
+D:\multimedi\Cscherp\6.6. rnatransscriptie\obj\Debug\net6.0\6.6. rnatransscriptie.genruntimeconfig.cache
+D:\multimedi\Cscherp\6.6. rnatransscriptie\obj\Debug\net6.0\ref\6.6. rnatransscriptie.dll
